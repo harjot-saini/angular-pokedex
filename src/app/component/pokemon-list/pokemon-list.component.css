@@ -1,0 +1,12 @@
+.list-view ul{
+    list-style-type: none;
+}
+
+.list-view img {
+    bottom: 0;
+}
+
+h3:first-of-type {
+    font-weight: normal;
+    text-align: center;
+}
